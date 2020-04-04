@@ -9,4 +9,6 @@ role: admin
 firstname: SVG
 lastname: JS
 history:
+  - plugins
+  - plugins/ngx-svg
   - importing-exporting
